@@ -26,4 +26,4 @@ for a Czech manufacturing company.
 
 We provide 20 challenges focused on industrial security (all levels of difficulty).
 Most challenges are derived from real-world security problems, so you have fun
-and learn about actual cyber security! 
+and learn about actual cyber security!  
