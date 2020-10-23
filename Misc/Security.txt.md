@@ -30,7 +30,7 @@ Clicking on https://www.senork.de/openpgp.asc takes us to the PGP key .
 
 ![Screenshot_2020-10-23 https www senork de(2)](https://user-images.githubusercontent.com/73142671/96949177-efeda400-14ef-11eb-844e-69a88e210bda.png)
 
-We created a file called *pubkey.asc* in our own home directory , and pasted the
+We create a file called *pubkey.asc* in our own home directory , and paste the
 the PGP public key block into it . 
 
 We need to try to extract the PGP keyid from our public key file , pubkey.asc .
