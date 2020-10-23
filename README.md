@@ -1,7 +1,7 @@
 ### *2020 Syskron Security CTF*
 
 For this event a large part of our team was comprised of new players , with no prior experience in 
-CTF competitions . I'd like to personally thank everyone of them , for taking a leap of faith and
+CTF competitions. I'd like to personally thank everyone of them , for taking a leap of faith and
 trying out a CTF for themselves , no matter how scary it seemed at first .
 
    ####   Members
